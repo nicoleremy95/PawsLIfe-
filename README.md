@@ -4,6 +4,10 @@ We Paws Life So You Don't Have To
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+
+### Link to Deployed Application
+1. [Pawslife](https://pawslife.herokuapp.com/)
+
 ### Description
 This application is a social community website of pet owners and pet service providers. Pawslife gives the user the ability to create an account as a pet owner of a dog or cat, and or a pet provider for dogs or cats. As an owner, a user can keep track of all of their pets for which they can book provider services. As a provider, a user can post pet care services for other members of pawslife to book. 
 
@@ -99,7 +103,5 @@ Please make sure to update tests as appropriate.
 ### Questions
 1. [Github](https://github.com/rickyg218/PawsLIfe-)
 
-### Link to Deployed Application
-1. [Pawslife](https://pawslife.herokuapp.com/)
     
      
